@@ -6,7 +6,7 @@ A complete Azure infrastructure built with **Terraform**, designed for a secure,
 
 ## 🧱 Architecture Overview
 
-![Azure Terraform Architecture](link-to-your-diagram.png)
+![Azure Terraform Architecture](architecture-diagram.png)
 
 > **Environment:** `dev`  
 > **Region:** `West Europe`  
